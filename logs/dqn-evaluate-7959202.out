@@ -1,0 +1,42 @@
+Host: qgpu2004
+Tue Nov 10 14:27:27 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.43.02              KMD Version: 610.43.02     CUDA UMD Version: 13.3     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-80GB          On  |   00000000:CA:00.0 Off |                    0 |
+| N/A   45C    P0             63W /  500W |       0MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+evaluation=25/500 reward=158.0
+evaluation=50/500 reward=221.0
+evaluation=75/500 reward=151.0
+evaluation=100/500 reward=171.0
+evaluation=125/500 reward=152.0
+evaluation=150/500 reward=176.0
+evaluation=175/500 reward=297.0
+evaluation=200/500 reward=215.0
+evaluation=225/500 reward=200.0
+evaluation=250/500 reward=235.0
+evaluation=275/500 reward=215.0
+evaluation=300/500 reward=157.0
+evaluation=325/500 reward=255.0
+evaluation=350/500 reward=230.0
+evaluation=375/500 reward=155.0
+evaluation=400/500 reward=236.0
+evaluation=425/500 reward=213.0
+evaluation=450/500 reward=500.0
+evaluation=475/500 reward=283.0
+evaluation=500/500 reward=153.0
+Evaluation mean=204.672, std=50.464; results in /gpfs/projects/e32706/way5959/MLDS_hw2/runs/cartpole_double/eval_final_unseen

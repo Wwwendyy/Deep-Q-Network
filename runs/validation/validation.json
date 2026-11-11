@@ -1,0 +1,16 @@
+{
+  "seed": 2026,
+  "preprocessing_shape": [
+    88,
+    80,
+    1
+  ],
+  "preprocessing_dtype": "int8",
+  "fixed_action_trace_reproducible": true,
+  "terminal_target_gamma_0.95_nextq_4": 1.0,
+  "truncation_target_gamma_0.95_nextq_4": 4.8,
+  "random_policy_mean_40": 20.825,
+  "random_policy_std_40": 12.830027879338976,
+  "simple_heuristic_mean_40": 500.0,
+  "simple_heuristic_std_40": 0.0
+}

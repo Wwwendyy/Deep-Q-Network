@@ -1,0 +1,42 @@
+Host: qgpu3004
+Tue Nov 10 15:22:47 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 610.43.02              KMD Version: 610.43.02     CUDA UMD Version: 13.3     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA H100 80GB HBM3          On  |   00000000:42:00.0 Off |                    0 |
+| N/A   43C    P0             69W /  700W |       0MiB /  81559MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+evaluation=25/500 reward=214.0
+evaluation=50/500 reward=216.0
+evaluation=75/500 reward=357.0
+evaluation=100/500 reward=212.0
+evaluation=125/500 reward=206.0
+evaluation=150/500 reward=218.0
+evaluation=175/500 reward=211.0
+evaluation=200/500 reward=230.0
+evaluation=225/500 reward=212.0
+evaluation=250/500 reward=242.0
+evaluation=275/500 reward=130.0
+evaluation=300/500 reward=218.0
+evaluation=325/500 reward=229.0
+evaluation=350/500 reward=229.0
+evaluation=375/500 reward=216.0
+evaluation=400/500 reward=167.0
+evaluation=425/500 reward=239.0
+evaluation=450/500 reward=218.0
+evaluation=475/500 reward=223.0
+evaluation=500/500 reward=216.0
+Evaluation mean=223.214, std=46.606; results in /gpfs/projects/e32706/way5959/MLDS_hw2/runs/cartpole_retry/eval_final_100000

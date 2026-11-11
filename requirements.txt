@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+gymnasium[classic-control,atari]>=0.29
+ale-py>=0.8
+torch>=2.0
