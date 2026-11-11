@@ -2,9 +2,9 @@
 
 ## Repository information
 
-- **GitHub username:** TODO
-- **Repository name:** TODO
-- **Public repository URL:** TODO — replace this with the public GitHub URL before submitting.
+- **GitHub username:** Wwwendyy
+- **Repository name:** Deep Q-Network
+- **Public repository URL:** https://github.com/Wwwendyy/Deep-Q-Network
 - **Training environment:** Northwestern Quest, one GPU per training job
 
 ## Overview
